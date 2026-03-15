@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "youneslebg4-SCVD.aternos.me",
-    "port": 20808,
+    "port":20808,
     "version": "",
     "try-creative": false
   },
